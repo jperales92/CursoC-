@@ -8,5 +8,6 @@ namespace CN
 {
     public class Class1
     {
+        int i = 0;
     }
 }
